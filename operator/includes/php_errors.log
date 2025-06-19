@@ -1,0 +1,18 @@
+[17-Jun-2025 16:29:06 UTC] PDO Connection Error: SQLSTATE[HY000] [2002] No such file or directory
+[17-Jun-2025 16:29:06 UTC] Database Error: SQLSTATE[HY000] [2002] No such file or directory
+[17-Jun-2025 16:29:06 UTC] Connection Details: Array
+(
+    [host] => localhost
+    [dbname] => u425238599_portal
+    [username] => u425238599_portal
+)
+
+[17-Jun-2025 16:33:27 UTC] PDO Connection Error: SQLSTATE[HY000] [2002] No such file or directory
+[17-Jun-2025 16:33:27 UTC] Database Error: SQLSTATE[HY000] [2002] No such file or directory
+[17-Jun-2025 16:33:27 UTC] Connection Details: Array
+(
+    [host] => localhost
+    [dbname] => u425238599_portal
+    [username] => u425238599_portal
+)
+
